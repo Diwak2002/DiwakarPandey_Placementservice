@@ -1,0 +1,1 @@
+Welcome to the Placement Service Sprint Project! This project aims to develop a comprehensive and efficient placement service to connect job seekers with potential employers. The primary goal is to streamline the process of job placement, making it easier for candidates to find suitable positions and for employers to discover qualified talents.
